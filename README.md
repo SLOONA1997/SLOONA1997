@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Loona</h1>
-<h3 align="center">A passionate iOS developer from India</h3>
+<h3 align="center">A passionate iOS developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sloona1997&label=Profile%20views&color=0e75b6&style=flat" alt="sloona1997" /> </p>
 
